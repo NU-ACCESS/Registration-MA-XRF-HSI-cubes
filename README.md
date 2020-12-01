@@ -1,4 +1,4 @@
-# Registration-MA-XRF-HSI-cubes# Registration of MA-XRF and HSI cubes
+# Registration of MA-XRF and HSI cubes
 ***
 
 The aim of this repository is to provide users with macros running in ImageJ (Fiji) in order to perform the registration of MA-XRF maps and hyperspectral imaging (HSI) datacubes. <br>
